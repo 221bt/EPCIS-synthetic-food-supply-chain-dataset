@@ -1,7 +1,5 @@
 # EPCIS-synthetic-food-supply-chain-dataset
 
-**Move to another [repo](https://github.com/221bt/EPCIS-synthetic-food-supply-chain-dataset)**
-
 **Dataset Overview**
 
 This dataset represents a synthetic food supply chain, designed to mimic real-world operations while fully complying with GS1 EPCIS V2 standards. GS1 EPCIS V2 is a global standard for capturing and sharing event data, providing visibility into the "what, when, where, why, and how" of product movements, which is crucial for traceability and safety. It supports features like sensor data for monitoring conditions (e.g., cold chains) and a REST API for easier data integration, making it developer-friendly. For more details, visit GS1 EPCIS.
